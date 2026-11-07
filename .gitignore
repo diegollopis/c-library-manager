@@ -1,0 +1,9 @@
+# Saídas de compilação
+build/
+
+# Dados gerados pelo programa
+library.txt
+library.txt.tmp
+
+# macOS
+.DS_Store
